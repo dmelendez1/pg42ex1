@@ -1,0 +1,15 @@
+.form-container {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.big-red-button {
+    background-color: red;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    font-size: 20px;
+   
+}
